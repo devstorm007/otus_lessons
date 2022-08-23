@@ -16,7 +16,7 @@ fn test_tcp() {
             let st = String::from_utf8(vec)?;
             println!("Received: {st}");
         }
-
+        println!("Received");
         Ok(())
     }
 
