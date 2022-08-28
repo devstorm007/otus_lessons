@@ -35,13 +35,13 @@ src/
 ❏ server
     ❏ database.rs
     ❏ protocol.rs
-    ❏ mod.rs
+    ❏ p20_p21_p32
 ❏ client.rs
 
 // lib.rs
 mod server;
 mod client;
-// server/mod.rs
+// server/p20_p21_p32
 mod database;
 mod protocol;
 // client.rs

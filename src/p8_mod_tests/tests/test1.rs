@@ -92,7 +92,7 @@ lib structure
         lib.rs
         some_module.rs
         another_module/
-            mod.rs
+            p20_p21_p32
     tests/
         integration_test.rs
     benches/
@@ -116,7 +116,7 @@ app structure
         lib.rs
         some_module.rs
         another_module/
-            mod.rs
+            p20_p21_p32
     tests/
         integration_test.rs
 
